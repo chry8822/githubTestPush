@@ -1,3 +1,1 @@
-hello world
-hello chrys!
-hello HeeWon!
+# github 명령어 강의
